@@ -1,5 +1,13 @@
-### Hello! 안녕하세요! Привет! 👋
+### Hello! 안녕하세요! Привет! 
 #### My name is Vlada. 제 일음은 블라다입니다. Меня зовут Влада. 
+
+## Pronouns: she/her 💁‍♀️
+
+## Contacts 💌
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=izhdenevav&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=izhdenevav&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=izhdenevav&theme=solarized_dark)
 <!--
 **izhdenevav/IzhdenevaV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +19,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 -->
