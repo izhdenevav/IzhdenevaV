@@ -12,7 +12,7 @@
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
     <a href="vizdeneva@gmail.com" target="_blank">
-       <img src="http://logo-logos.com/2016/11/Google_Mail_Gmail_logo_icon.png" alt="Google Mail, Gmail logo, logotype" height="40" width="40" />
+       <img src="https://icons8.com/icon/Cjuj2uISMdQ1/gmail" alt="Google Mail, Gmail logo, logotype" height="40" width="40" />
     </a>
   </div>
 
