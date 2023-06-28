@@ -4,7 +4,7 @@
 ## Pronouns: she/her 💁‍♀️
 
 ## Contacts 💌
-- [![Telegram Badge](https://img.shields.io/badge/-izhvld-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/izhvld) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vizdeneva@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-izhvld-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/izhvld) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vizdeneva@gmail.com)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=izhdenevav&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=izhdenevav&theme=dracula)
