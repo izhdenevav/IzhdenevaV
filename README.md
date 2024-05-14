@@ -28,6 +28,6 @@
 </div>
 
 ## Some statistics 🌸‹𝟹♡☺
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=izhdenevav&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=izhdenevav&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=izhdenevav&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=izhdenevav&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=izhdenevav&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=izhdenevav&theme=dracula)
