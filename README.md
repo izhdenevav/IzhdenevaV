@@ -27,7 +27,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" alt="kotlin" width="40" height="40"/>&nbsp
 </div>
 
-## Some statistics 🌸‹𝟹♡☺
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=izhdenevav&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=izhdenevav&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=izhdenevav&theme=dracula)
+
