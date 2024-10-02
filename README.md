@@ -1,8 +1,3 @@
-### Hello! 안녕하세요! Привет! 
-#### My name is Vlada. 제 일음은 블라다입니다. Меня зовут Влада. 
-
-### Pronouns: she/her 💁‍♀️
-
 ## Contacts 💌
 <div id="badges">
    <a href="https://t.me/izhvld" target="_blank">
